@@ -8,7 +8,7 @@ public class DoubleCheckedLocking {
 
     }
 
-    public static synchronized DoubleCheckedLocking getInstance() {
+    public static DoubleCheckedLocking getInstance() {
         if (instance == null) {
             synchronized (DoubleCheckedLocking.class) {
                 if (instance == null) {
