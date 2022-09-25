@@ -1,4 +1,4 @@
-package com.example.designpatterns.singletome.step2;
+package com.example.designpatterns.singletome.step2.synchronize;
 
 public class SettingWithSynchronized {
 
