@@ -1,4 +1,7 @@
-package com.example.designpatterns.builder;
+package com.example.designpatterns.builder.builderFactory;
+
+import com.example.designpatterns.builder.domain.Character;
+import com.example.designpatterns.builder.domain.Spack;
 
 import java.time.LocalDateTime;
 

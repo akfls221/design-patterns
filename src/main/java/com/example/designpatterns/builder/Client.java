@@ -1,5 +1,11 @@
 package com.example.designpatterns.builder;
 
+import com.example.designpatterns.builder.builderFactory.CharacterBuilder;
+import com.example.designpatterns.builder.builderFactory.CharacterDirector;
+import com.example.designpatterns.builder.builderFactory.DefaultCharacterBuilder;
+import com.example.designpatterns.builder.domain.Character;
+import com.example.designpatterns.builder.domain.Spack;
+
 import java.time.LocalDateTime;
 
 public class Client {

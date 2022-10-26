@@ -1,4 +1,4 @@
-package com.example.designpatterns.builder;
+package com.example.designpatterns.builder.domain;
 
 import java.time.LocalDateTime;
 import java.util.List;

@@ -1,4 +1,4 @@
-package com.example.designpatterns.builder;
+package com.example.designpatterns.builder.domain;
 
 public class Spack {
 
